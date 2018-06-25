@@ -1,0 +1,44 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(236): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(251): warning C4101: 'e': unreferenced local variable
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(264): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(278): warning C4101: 'e': unreferenced local variable
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(390): warning C4244: 'argument': conversion from 'wchar_t' to 'char', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(404): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(406): warning C4244: 'argument': conversion from 'wchar_t' to 'char', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(437): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(448): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(450): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(476): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(477): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(509): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(524): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(539): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(554): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(580): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(591): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(593): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(619): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitry\documents\visual studio 2017\projects\opencv (ui)\project1\myform.h(620): warning C4018: '<': signed/unsigned mismatch
+c:\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(482): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(815): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(2135): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\mat.inl.hpp(3735): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  Project1.vcxproj -> C:\Users\Dmitry\Documents\Visual Studio 2017\Projects\OpenCV (UI)\x64\Debug\OpenCV (WinForms).exe
